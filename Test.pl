@@ -9,7 +9,7 @@ while($len--){ $string .= $chars[rand @chars] };
 print "$string\n";
 
 
-my $file = "E:/PerlTesting/PRIN.csv";
+my $file = "PRIN.csv";
 #print $file,"\n";
 
 #open(FH, '>', $filename) or die $!;
